@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51206209439",
+    "firebase_url": "https://trabalho-final-rn.firebaseio.com",
+    "project_id": "trabalho-final-rn",
+    "storage_bucket": "trabalho-final-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51206209439:android:e47a14a5e27a01e33c47aa",
+        "android_client_info": {
+          "package_name": "com.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51206209439-egulsu6lihsrq2d8b5scmt8t6ujf1c0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4EUfUfrQ-QU9KIjVPjnGq0LZI3XhijI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51206209439-egulsu6lihsrq2d8b5scmt8t6ujf1c0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
